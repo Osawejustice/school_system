@@ -25,7 +25,7 @@ SECRET_KEY = '%4p_p13%26--87f+2)kx1qy)-$&8zen!7#_^z6kju!5^3&2$@a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['skibanjgit.herokuapp.com/']
+ALLOWED_HOSTS = ['skibanjfc.herokuapp.com/']
 
 MEDIA_URL="/media/"
 MEDIA_ROOT=os.path.join(BASE_DIR,"media")
